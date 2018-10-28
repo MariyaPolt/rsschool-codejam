@@ -29,5 +29,4 @@ describe('sumOfOther', function() {
       assert.deepEqual(sumOfOther([1, 100, -5]), [95, -4, 101]);
     });
   });
-
 });

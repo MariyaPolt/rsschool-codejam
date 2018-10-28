@@ -10,7 +10,6 @@ module.exports = function recursion(tree) {
       }
     }
 
-
     if (hasOwnProperty.call(element, 'left')) {
       buildTree(element.left, depth + 1);
     }

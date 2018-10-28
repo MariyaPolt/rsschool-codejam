@@ -15,5 +15,4 @@ describe('recursion', function() {
       assert.deepEqual(recursion({}), []);
     });
   });
-
 });
