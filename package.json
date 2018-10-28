@@ -1,0 +1,25 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ./src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariyaPolt/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariyaPolt/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/MariyaPolt/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "mocha": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
